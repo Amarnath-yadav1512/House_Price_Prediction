@@ -2,7 +2,7 @@
 House price prediction using algorithms and ml  models, using a not so big dataset where i have tried to to minimize the error as much as i can by trying different different models
 
 
----------------------------------------------------------------INFORMATION ABOUT DATASET USED FOR PROJECT--------------------------------------------------------------
+------------------------------------------------INFORMATION ABOUT DATASET USED FOR PROJECT----------------------------------------------------
 1. Title: Boston Housing Data
 
 2. Sources:
